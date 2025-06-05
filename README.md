@@ -1,6 +1,4 @@
-Here’s a `README.md` that explains the code and guides a user through understanding, setting up, and running the project:
 
----
 
 # 📚 Structured Knowledge Extraction with Gemini + Graphiti
 
@@ -150,20 +148,3 @@ await find_episode(graphiti, "marie curie")
 * [`google-generativeai`](https://pypi.org/project/google-generativeai/)
 * `pydantic`
 
----
-
-## 📌 Notes
-
-* Gemini responses must be **well-formed JSON**; malformed responses can crash parsing.
-* You may want to add retry logic or error handling in `get_structured_data()` for robustness.
-* Neo4j must be running and accessible to avoid connection errors.
-
----
-
-## 📝 License
-
-MIT License
-
----
-
-Let me know if you'd like a `requirements.txt`, example Neo4j visualization, or integration with LangChain or Streamlit for a UI.
