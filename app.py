@@ -113,7 +113,7 @@ def get_graphiti_obj():
     graphiti = Graphiti(
         "bolt://localhost:7687",
         "neo4j",
-        "ok@test123",
+        "neodj password",
         llm_client=GeminiClient(
             config=LLMConfig(
                 api_key=api_key,
