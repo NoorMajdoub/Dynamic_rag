@@ -89,7 +89,7 @@ def get_prompt(chunk):
     prompt2=prompt.format(format_instructions=format_instructions,chunk=chunk)
     return prompt2
 
-genai.configure(api_key="AIzaSyC6yHwqS0J-5SZP7SNMoBxxfrGjK8a-5rk")
+genai.configure(api_key="")
 MODEL_NAME = "gemini-2.0-flash"
 
 
