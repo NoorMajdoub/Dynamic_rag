@@ -102,7 +102,7 @@ Update these in `get_graphiti_obj()` if different.
 
 ---
 
-## ▶ Run the Script
+##  Run the Script
 
 The main script does the following:
 
