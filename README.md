@@ -4,7 +4,7 @@
 
 This project extracts structured entities and relationships from natural language text using **Google Gemini**, and stores them as a knowledge graph in a **Neo4j** database via **Graphiti**.
 
-## 🔍 What It Does
+##  What It Does
 
 1. **Takes in raw text**
 2. **Uses Gemini (Generative AI) to extract structured data**:
