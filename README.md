@@ -1,6 +1,6 @@
 
 
-# 📚 Structured Knowledge Extraction with Gemini + Graphiti
+# Structured Knowledge Extraction with Gemini + Graphiti
 
 This project extracts structured entities and relationships from natural language text using **Google Gemini**, and stores them as a knowledge graph in a **Neo4j** database via **Graphiti**.
 
