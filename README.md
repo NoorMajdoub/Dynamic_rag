@@ -90,7 +90,7 @@ Update these in `get_graphiti_obj()` if different.
 
 ---
 
-## 🛠️ How It Works
+## 🛠 How It Works
 
 ### Key Components
 
