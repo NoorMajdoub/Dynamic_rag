@@ -142,7 +142,7 @@ await find_episode(graphiti, "marie curie")
 
 ---
 
-## 🧩 Dependencies
+##  Dependencies
 
 * [`graphiti-core`](https://pypi.org/project/graphiti-core/)
 * [`google-generativeai`](https://pypi.org/project/google-generativeai/)
