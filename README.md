@@ -39,7 +39,7 @@ It extracts:
 
 ---
 
-## 🚀 Setup
+##  Setup
 
 ### 1. Clone the Repository
 
