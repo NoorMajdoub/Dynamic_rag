@@ -123,7 +123,7 @@ Connection closed
 
 ---
 
-## 🔍 Example Graphiti Query
+##  Example Graphiti Query
 
 ```python
 await find_episode(graphiti, "marie curie")
