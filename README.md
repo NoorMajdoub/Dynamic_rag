@@ -16,7 +16,7 @@ This project extracts structured entities and relationships from natural languag
 
 ---
 
-## 🧠 Example
+##  Example
 
 For this input:
 
