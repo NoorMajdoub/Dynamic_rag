@@ -131,7 +131,7 @@ await find_episode(graphiti, "marie curie")
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 .
