@@ -131,16 +131,6 @@ await find_episode(graphiti, "marie curie")
 
 ---
 
-##  File Structure
-
-```
-.
-├── main.py              # Core script for extraction and upload
-├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies
-```
-
----
 
 ##  Dependencies
 
